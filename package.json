@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/leomastakusuma/circleci/issues"
   },
-  "homepage": "https://github.com/leomastakusuma/circleci#readme"
+  "homepage": "https://github.com/leomastakusuma/circleci#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
