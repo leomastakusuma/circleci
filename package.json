@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/leomastakusuma/circleci#readme",
   "dependencies": {
-    "mysqli": "^2.16.0"
+    "mysql": "^2.16.0"
   }
 }
